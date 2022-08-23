@@ -1,0 +1,125 @@
+body{
+	  width: 70%;
+  padding: 1.5em;
+  border: 6px solid rgb(6,120,160);
+  margin-left: auto;
+  margin-right: auto;
+	background: black;
+}
+
+.card.card-body{
+ background: #000000
+
+}
+
+.Menu ul{
+  display: flex;
+  padding: 13px;
+  margin: 10px;
+  list-style: none;
+}
+
+.Menu a{
+  display: block;
+  padding: 20px;
+  background-color: Black ;
+  text-decoration: none;
+  color: #ab8c4d;
+}
+	
+.Menu a:hover{
+
+  background-color: #505050; 
+}
+
+.Caja_padre{
+	width: 1060px;
+	height: 1000px;
+	position: relative;
+	background: #505050;
+	color: Blck;
+	
+}
+
+.Regiones{
+	position: absolute;
+	top: 50px;
+	width: 1050px;
+	height: 350px;
+	Color: Red;
+	background: Black;
+  text-align: center;
+}
+
+.Mapa{
+position: absolute;
+	top: 500px;
+	width: 1060px;
+	height: 340px;
+	background: Black;
+  text-align: center;
+}	
+
+
+
+.imagen{
+	background: ;
+	width: 100%;
+}
+
+img{
+	width: ;
+	height: auto;
+	margin: auto;
+	display: block;
+}
+
+
+
+p{
+	text-align: left;
+	font-family:"Verdana";
+	color: #ab8c4d;
+}
+
+h1,h2,h3,h4,h5,h6,h7,h8{
+	color: #ab8c4d ;
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+	font-family: Verdana;
+}
+
+h3{
+	font-size: 25px;
+	text-align: center;
+	font-family: Verdana;
+}
+
+h4{
+	font-size: 25px;
+	text-align: center;
+	font-family: Verdana;
+}
+
+h5{
+	font-size: 25px;
+	font-family: Verdana;
+}
+
+
+ul{
+	color: #ab8c4d;
+
+}
+
+li{
+	color: #ab8c4d;
+	font-size: 20px;
+}
+
+div{
+	
+}
